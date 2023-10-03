@@ -11,5 +11,5 @@ else if(a<b){
     document.querySelector("h1").innerHTML="Player2 wins🚩";
 }
 else{
-    document.querySelector("h1").innerHTML="It's an Tie";
+    document.querySelector("h1").innerHTML="It's a Tie";
 }
